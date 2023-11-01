@@ -15,7 +15,7 @@ The project was to implement the Functional Safety Management (as per IEC 61511/
 3. Collaborating with procurement staff, project quality control, sales, and administration.
 4. Maintaining communication and project updates with customers and stakeholders
 
-## Typical Works
+## Typical Works (Some pictures are intentionally blurred)
 1. HMI (Human Machine Intercafe) in the CCR (Central Control Room)
    
    ![](HMI.png)
