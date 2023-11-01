@@ -34,3 +34,14 @@ The project was to implement the Functional Safety Management (as per IEC 61511/
 
 ## Project Experiences / Portfolios
 
+| Projects | Client / End User | Year |
+| ------ | ------ | ------ |
+| Balongan IHLA (Integrated High Level Alarm), Indramayu | Pertamina RU VI Balongan | 2017 |
+| SCADA Balongan Mundu, Indramayu | Pertagas Mundu | 2016 |
+| IKPP Perawang - RB12-CM13-MB26 Migration (Commissioning Phase) | IKPP (Indah Kiat Pulp & Paper) | 2016 |
+| PKT - Upgrade Control PLC Unit 3000 (Commissioning Phase), Bontang, East Kalimantan | Pupuk Kalimantan Timur | 2016 |
+| KPI - Total Migration to Centum VP (Phase II), Bontang, East Kalimantan | Kaltim Parna Industri | 2016 |
+| PKT - Upgrade Control PLC Unit 3000 (Engineering Phase), Bontang, East Kalimantan | Pupuk Kalimantan Timur | 2015 |
+| Balongan Pilot Project for Tank Overfill Protection System, Indramayu, West Java | Pertamina RU VI Balongan | 2014 / 2015 |
+| Smelting - Gas Blower Shutdown System, Gresik, East Java | Smelting | 2013 / 2014 |
+ 
