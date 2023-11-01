@@ -16,7 +16,13 @@ The project was to implement the Functional Safety Management (as per IEC 61511/
 4. Maintaining communication and project updates with customers and stakeholders
 
 ## Typical Works
-
+1. HMI (Human Machine Intercafe) in the CCR (Central Control Room)
+   
+   ![](HMI.png)
+   
+3. Programming / Logic Generation
+4. Equipment Tuning Analysis Panel
+5. Outdoor / Indoor System Panel Installation
 
 ## Project Experiences / Portfolios
 
