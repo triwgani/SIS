@@ -20,11 +20,11 @@ The project was to implement the Functional Safety Management (as per IEC 61511/
    
    ![](HMI.png)
    
-2. Programming / Logic Generation
+2. System Generation - Programming / Logic Generation
 
    ![](Logic.png)
 
-3. Equipment Tuning Analysis Panel
+3. System Generation - Equipment Tuning Analysis Panel
 
    ![](Tuning.png)
 
