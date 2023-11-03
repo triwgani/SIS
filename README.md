@@ -6,7 +6,7 @@ Period of Service: October 2013 - August 2017
 
 ![](SIS.png)
 
-The project was to implement the Functional Safety Management (as per IEC 61511/61508) as well as process hazards analysis in the industry standards and emerging practices that apply to control systems, safety instrumented systems and automation system in general. The typical project work was to install the Yokogawa SIS (Prosafe-RS platform) as a standalone system or integrate it with the existing DCS.
+The project was to implement the Functional Safety Management (as per IEC 61511/61508) as well as process hazards analysis in the industry standards and emerging practices that apply to control systems, safety instrumented systems and automation system in general. The typical project work was to install the [Yokogawa SIS](https://www.yokogawa.com/solutions/products-and-services/control/control-and-safety-system/safety-instrumented-systems-sis/) (Prosafe-RS platform) as a standalone system or integrate it with the existing DCS.
 
 ## Role
 ### Safety Instrument Engineer
